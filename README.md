@@ -1,7 +1,7 @@
 Bem Vindo ao Harlan
 ======
 
-**Conheça o modo mais conveniente de capturar dados e gerar relatórios para sua empresa, transforme o Harlan na plataforma nº 1 para ficar sabendo do que importa.**
+**Conheça o modo mais conveniente de capturar dados e gerar relatórios para sua empresa, transforme o Harlan na plataforma Nº 1 para ficar sabendo do que importa.**
 
 Nossa ferramenta é um CRM de governança cadastral que permite pesquisar dados e empresas na nuvem. Dessa forma todas as informações estarão sempre atualizadas, salvas com segurança e você avisado de qualquer alteração.
 
@@ -9,15 +9,15 @@ Nossa ferramenta é um CRM de governança cadastral que permite pesquisar dados 
 
 ## As Vantagens do Harlan
 
-Com o Harlan você gera qualquer relatório, fica sabendo quando as coisas mudam, isso tudo de forma extremamente prática. Nosso CRM de governança cadastral foi desenhado para que seu banco de dados nunca mais fique desatualizado, impactando suas operações na área de vendas, negócio, fiscal ou jurídica.
+Com o Harlan você gera qualquer relatório e fica sabendo quando as coisas mudam de forma extremamente prática. Nosso CRM de governança cadastral foi desenhado para que seu banco de dados nunca mais fique desatualizado, impactando suas operações na área de vendas, negócio, fiscal ou jurídica.
 
 ### Cadastro na Nuvem
 
-Cada consulta salva é permanentemente atualizada, isto é, sempre que você consultar um registro salvo saberá o que mudou ao longo do tempo, quando mudou e poderá acessar comprovantes de cada uma dessas alterações. Além disso nossa ferramenta lhe avisará caso alguma coisa mudou.
+Cada consulta salva é permanentemente atualizada, isto é, sempre que você consultar um registro salvo saberá o que mudou e quando mudou ao longo do tempo. Poderá acessar comprovantes de cada uma dessas alterações. Além disso nossa ferramenta lhe avisará caso alguma coisa mudou.
 
 ### Comente o que é importante
 
-Trabalhar em equipe é fundamental, por isso o Harlan conta com uma ferramenta que permite você adicionar notas nos resultados salvos para que outros membros da equipe saibam, ou você até mesmo lembre no futuro, do que é importante.
+Trabalhar em equipe é fundamental, por isso o Harlan conta com uma ferramenta que permite você adicionar notas nos resultados salvos para que outros membros da equipe saibam, ou até mesmo que você lembre no futuro do que é importante no futuro.
 
 ### Open Source e Comunitário
 
