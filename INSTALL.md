@@ -9,7 +9,7 @@ Para poder instalar o aplicativo será necessária a instalação de alguns paco
 
 * [NPM - *npm is the package manager for node*](https://www.npmjs.com/)
 
-### Quick Guide ##
+### Guia Rápido ##
 
 Para instalar rápidamente o projeto em sua máquina você pode executar os seguintes comandos:
 
@@ -25,7 +25,7 @@ gulp
 
 #### Servindo o Conteúdo ####
 
-Adicionalmente você também pode usar o Python instalado para que possa servir o conteúdo a um navegador de forma simplificada.
+Adicionalmente você também pode usar o Python já instalado para que possa servir o conteúdo a um navegador de forma simplificada.
 
 ```bash
 Harlan/$ python -m SimpleHTTPServer
